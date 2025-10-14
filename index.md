@@ -12,3 +12,9 @@ Tring to add headers
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Tring to add image
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+Tring to add sample js code
